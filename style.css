@@ -1,0 +1,33 @@
+html{
+	box-sizing:border-box;
+}
+*,*:before,*:after{
+	box-sizing:inherit;
+}
+nav ul{
+list-style: none;
+}
+nav ul li{
+	display:inline;
+	border:1px solid grey;
+	padding:10px ;
+}
+span{
+	float:right;
+}
+.Icon{
+	width:30px;
+}
+h1 p{
+	background-color:#38f457;
+	font-weight:normal;
+	font-size: .6em;
+}
+header{
+	
+	font-size: 2em;
+}
+h1,h2,h3{
+	font-size:3em;
+	;
+}
