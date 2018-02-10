@@ -9,7 +9,7 @@ list-style: none;
 }
 nav ul li{
 	display:inline;
-	border:1px solid grey;
+	border:1px 
 	padding:10px ;
 }
 span{
@@ -31,3 +31,4 @@ h1,h2,h3{
 	font-size:3em;
 	;
 }
+
